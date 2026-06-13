@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-06-13 23:11 UTC
+- Total alive: 3 (+3)
+- Rate-limited: 3
+- Avg latency: 521 ms
+- Avg reliability: 2.6%
+- Top families: gemini 1, llama 1, other 1
+- Top providers: google-ai-studio 1, groq 1, openrouter 1
+
+
 ## 2026-06-13 22:26 UTC
 - Total alive: 0 (+0)
 - Rate-limited: 3

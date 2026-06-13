@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "a5794796737d4ae9",
+    "base_url": "https://api.groq.com/openai/v1",
+    "api_kind": "openai",
+    "provider": "groq",
+    "model_detected": "llama",
+    "model_family": "llama",
+    "latency_ms": 186,
+    "tier": "official",
+    "free_tier": true,
+    "last_checked": 1781392246,
+    "reliability_pct": 100
+  },
+  {
+    "id": "561f2ff0e39d92f8",
+    "base_url": "https://generativelanguage.googleapis.com",
+    "api_kind": "gemini",
+    "provider": "google-ai-studio",
+    "model_detected": "gemini",
+    "model_family": "gemini",
+    "latency_ms": 560,
+    "tier": "official",
+    "free_tier": true,
+    "last_checked": 1781392246,
+    "reliability_pct": 100
+  },
+  {
+    "id": "d867730223d9e40c",
+    "base_url": "https://openrouter.ai/api/v1",
+    "api_kind": "openai",
+    "provider": "openrouter",
+    "model_detected": null,
+    "model_family": "other",
+    "latency_ms": 817,
+    "tier": "official",
+    "free_tier": true,
+    "last_checked": 1781392246,
+    "reliability_pct": 100
+  }
+]
