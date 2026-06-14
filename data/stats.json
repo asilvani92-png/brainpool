@@ -1,51 +1,14 @@
 {
-  "endpoint_count": 117,
-  "alive_count": 2,
+  "endpoint_count": 116,
+  "alive_count": 0,
   "rate_limited_count": 3,
-  "avg_latency_ms": 529,
-  "avg_reliability_pct": 1.7,
-  "by_family": [
-    {
-      "model_family": "gemini",
-      "alive_count": 1
-    },
-    {
-      "model_family": "other",
-      "alive_count": 1
-    }
-  ],
-  "by_provider": [
-    {
-      "provider": "google-ai-studio",
-      "alive_count": 1
-    },
-    {
-      "provider": "groq",
-      "alive_count": 1
-    }
-  ],
-  "by_tier": [
-    {
-      "tier": "official",
-      "alive_count": 2
-    }
-  ],
-  "last_updated": 1781401094,
+  "avg_latency_ms": 0,
+  "avg_reliability_pct": 0,
+  "by_family": [],
+  "by_provider": [],
+  "by_tier": [],
+  "last_updated": 1781417990,
   "source_quality": [
-    {
-      "source": "groq",
-      "total": 1,
-      "alive": 1,
-      "avg_latency_ms": 526,
-      "alive_pct": 100
-    },
-    {
-      "source": "google-ai-studio",
-      "total": 1,
-      "alive": 1,
-      "avg_latency_ms": 532,
-      "alive_pct": 100
-    },
     {
       "source": "public-bots",
       "total": 35,
@@ -70,6 +33,13 @@
     {
       "source": "hf-spaces",
       "total": 40,
+      "alive": 0,
+      "avg_latency_ms": null,
+      "alive_pct": 0
+    },
+    {
+      "source": "groq",
+      "total": 1,
       "alive": 0,
       "avg_latency_ms": null,
       "alive_pct": 0
