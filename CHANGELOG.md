@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-06-14 12:02 UTC
+- Total alive: 1 (+1)
+- Rate-limited: 3
+- Avg latency: 541 ms
+- Avg reliability: 0.9%
+- Top families: other 1
+- Top providers: groq 1
+
+
 ## 2026-06-14 09:59 UTC
 - Total alive: 0 (+0)
 - Rate-limited: 3
