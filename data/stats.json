@@ -2,7 +2,7 @@
   "endpoint_count": 113,
   "alive_count": 1,
   "rate_limited_count": 3,
-  "avg_latency_ms": 137,
+  "avg_latency_ms": 198,
   "avg_reliability_pct": 0.9,
   "by_family": [
     {
@@ -22,13 +22,13 @@
       "alive_count": 1
     }
   ],
-  "last_updated": 1781459482,
+  "last_updated": 1781464667,
   "source_quality": [
     {
       "source": "groq",
       "total": 1,
       "alive": 1,
-      "avg_latency_ms": 137,
+      "avg_latency_ms": 198,
       "alive_pct": 100
     },
     {
