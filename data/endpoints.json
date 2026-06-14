@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "a5794796737d4ae9",
+    "base_url": "https://api.groq.com/openai/v1",
+    "api_kind": "openai",
+    "provider": "groq",
+    "model_detected": "llama-3.1",
+    "model_family": "llama",
+    "latency_ms": 137,
+    "tier": "official",
+    "free_tier": true,
+    "last_checked": 1781459478,
+    "reliability_pct": 100
+  }
+]
