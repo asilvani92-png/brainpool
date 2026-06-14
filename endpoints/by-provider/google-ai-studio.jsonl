@@ -1,1 +1,1 @@
-{"id":"561f2ff0e39d92f8","base_url":"https://generativelanguage.googleapis.com","api_kind":"gemini","provider":"google-ai-studio","model_detected":"gemini","model_family":"gemini","latency_ms":560,"tier":"official","free_tier":true,"last_checked":1781392246,"reliability_pct":100}
+{"id":"561f2ff0e39d92f8","base_url":"https://generativelanguage.googleapis.com","api_kind":"gemini","provider":"google-ai-studio","model_detected":"gemini","model_family":"gemini","latency_ms":532,"tier":"official","free_tier":true,"last_checked":1781401091,"reliability_pct":100}

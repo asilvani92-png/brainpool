@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-06-14 01:38 UTC
+- Total alive: 2 (-1)
+- Rate-limited: 3
+- Avg latency: 529 ms
+- Avg reliability: 1.7%
+- Top families: gemini 1, other 1
+- Top providers: google-ai-studio 1, groq 1
+
+
 ## 2026-06-13 23:11 UTC
 - Total alive: 3 (+3)
 - Rate-limited: 3
