@@ -1,12 +1,12 @@
 {
-  "endpoint_count": 116,
+  "endpoint_count": 113,
   "alive_count": 1,
   "rate_limited_count": 3,
-  "avg_latency_ms": 541,
+  "avg_latency_ms": 125,
   "avg_reliability_pct": 0.9,
   "by_family": [
     {
-      "model_family": "other",
+      "model_family": "gpt",
       "alive_count": 1
     }
   ],
@@ -22,13 +22,13 @@
       "alive_count": 1
     }
   ],
-  "last_updated": 1781438526,
+  "last_updated": 1781447516,
   "source_quality": [
     {
       "source": "groq",
       "total": 1,
       "alive": 1,
-      "avg_latency_ms": 541,
+      "avg_latency_ms": 125,
       "alive_pct": 100
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "source": "gpt4free-providers",
-      "total": 12,
+      "total": 9,
       "alive": 0,
       "avg_latency_ms": null,
       "alive_pct": 0
