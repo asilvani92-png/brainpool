@@ -1,1 +1,1 @@
-{"id":"a5794796737d4ae9","base_url":"https://api.groq.com/openai/v1","api_kind":"openai","provider":"groq","model_detected":"gpt-3.5-turbo","model_family":"gpt","latency_ms":339,"tier":"official","free_tier":true,"last_checked":1781489060,"reliability_pct":100}
+{"id":"a5794796737d4ae9","base_url":"https://api.groq.com/openai/v1","api_kind":"openai","provider":"groq","model_detected":"llama","model_family":"llama","latency_ms":276,"tier":"official","free_tier":true,"last_checked":1781531471,"reliability_pct":100}
