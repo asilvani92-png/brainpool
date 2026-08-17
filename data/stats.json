@@ -1,17 +1,17 @@
 {
-  "endpoint_count": 99,
+  "endpoint_count": 89,
   "alive_count": 0,
-  "rate_limited_count": 3,
+  "rate_limited_count": 2,
   "avg_latency_ms": 0,
   "avg_reliability_pct": 0,
   "by_family": [],
   "by_provider": [],
   "by_tier": [],
-  "last_updated": 1786980085,
+  "last_updated": 1786981595,
   "source_quality": [
     {
       "source": "public-bots",
-      "total": 35,
+      "total": 26,
       "alive": 0,
       "avg_latency_ms": null,
       "alive_pct": 0
@@ -32,21 +32,14 @@
     },
     {
       "source": "hf-spaces",
-      "total": 39,
-      "alive": 0,
-      "avg_latency_ms": null,
-      "alive_pct": 0
-    },
-    {
-      "source": "gpt4free-providers",
-      "total": 3,
+      "total": 40,
       "alive": 0,
       "avg_latency_ms": null,
       "alive_pct": 0
     },
     {
       "source": "awesome-free-ai",
-      "total": 20,
+      "total": 21,
       "alive": 0,
       "avg_latency_ms": null,
       "alive_pct": 0
