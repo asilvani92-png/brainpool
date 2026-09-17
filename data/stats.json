@@ -1,9 +1,9 @@
 {
-  "endpoint_count": 105,
+  "endpoint_count": 110,
   "alive_count": 1,
   "rate_limited_count": 3,
-  "avg_latency_ms": 4717,
-  "avg_reliability_pct": 1,
+  "avg_latency_ms": 7375,
+  "avg_reliability_pct": 0.9,
   "by_family": [
     {
       "model_family": "other",
@@ -22,13 +22,13 @@
       "alive_count": 1
     }
   ],
-  "last_updated": 1789660981,
+  "last_updated": 1789674282,
   "source_quality": [
     {
       "source": "hf-spaces",
       "total": 40,
       "alive": 1,
-      "avg_latency_ms": 4717,
+      "avg_latency_ms": 7375,
       "alive_pct": 2.5
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "source": "awesome-free-ai",
-      "total": 20,
+      "total": 25,
       "alive": 0,
       "avg_latency_ms": null,
       "alive_pct": 0
