@@ -1,10 +1,14 @@
 {
   "endpoint_count": 110,
-  "alive_count": 1,
+  "alive_count": 2,
   "rate_limited_count": 5,
-  "avg_latency_ms": 5623,
-  "avg_reliability_pct": 0.9,
+  "avg_latency_ms": 6679,
+  "avg_reliability_pct": 1.8,
   "by_family": [
+    {
+      "model_family": "gpt",
+      "alive_count": 1
+    },
     {
       "model_family": "other",
       "alive_count": 1
@@ -14,22 +18,26 @@
     {
       "provider": "hf-space:elseodelasgalletas/gemma4-e2b-qat-mobile",
       "alive_count": 1
+    },
+    {
+      "provider": "hf-space:obvAI/ai-character-chat",
+      "alive_count": 1
     }
   ],
   "by_tier": [
     {
       "tier": "reverse",
-      "alive_count": 1
+      "alive_count": 2
     }
   ],
-  "last_updated": 1790351103,
+  "last_updated": 1790365558,
   "source_quality": [
     {
       "source": "hf-spaces",
       "total": 40,
-      "alive": 1,
-      "avg_latency_ms": 5623,
-      "alive_pct": 2.5
+      "alive": 2,
+      "avg_latency_ms": 6678.5,
+      "alive_pct": 5
     },
     {
       "source": "public-bots",
