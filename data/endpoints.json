@@ -6,23 +6,10 @@
     "provider": "hf-space:elseodelasgalletas/gemma4-e2b-qat-mobile",
     "model_detected": null,
     "model_family": "other",
-    "latency_ms": 3375,
+    "latency_ms": 1593,
     "tier": "reverse",
     "free_tier": false,
-    "last_checked": 1790404528,
-    "reliability_pct": 100
-  },
-  {
-    "id": "77c2ee18a31b95ca",
-    "base_url": "https://obvai-ai-character-chat.hf.space/v1",
-    "api_kind": "openai",
-    "provider": "hf-space:obvAI/ai-character-chat",
-    "model_detected": "gpt-4o",
-    "model_family": "gpt",
-    "latency_ms": 3544,
-    "tier": "reverse",
-    "free_tier": false,
-    "last_checked": 1790404530,
+    "last_checked": 1790423039,
     "reliability_pct": 100
   }
 ]
