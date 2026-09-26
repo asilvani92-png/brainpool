@@ -6,10 +6,10 @@
     "provider": "hf-space:elseodelasgalletas/gemma4-e2b-qat-mobile",
     "model_detected": null,
     "model_family": "other",
-    "latency_ms": 770,
+    "latency_ms": 3375,
     "tier": "reverse",
     "free_tier": false,
-    "last_checked": 1790386630,
+    "last_checked": 1790404528,
     "reliability_pct": 100
   },
   {
@@ -19,10 +19,10 @@
     "provider": "hf-space:obvAI/ai-character-chat",
     "model_detected": "gpt-4o",
     "model_family": "gpt",
-    "latency_ms": 3650,
+    "latency_ms": 3544,
     "tier": "reverse",
     "free_tier": false,
-    "last_checked": 1790386629,
+    "last_checked": 1790404530,
     "reliability_pct": 100
   }
 ]
