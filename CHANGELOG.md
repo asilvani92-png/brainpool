@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-29 12:59 UTC
+- Total alive: 2 (+1)
+- Rate-limited: 5
+- Avg latency: 5,894 ms
+- Avg reliability: 1.8%
+- Top families: gpt 1, other 1
+- Top providers: hf-space:elseodelasgalletas/gemma4-e2b-qat-mobile 1, hf-space:obvAI/ai-character-chat 1
+
+
 ## 2026-09-29 06:09 UTC
 - Total alive: 1 (+1)
 - Rate-limited: 5
