@@ -4,12 +4,12 @@
     "base_url": "https://obvai-ai-character-chat.hf.space/v1",
     "api_kind": "openai",
     "provider": "hf-space:obvAI/ai-character-chat",
-    "model_detected": "gpt-4o",
-    "model_family": "gpt",
-    "latency_ms": 3929,
+    "model_detected": "llama-3.1-70b",
+    "model_family": "llama",
+    "latency_ms": 3787,
     "tier": "reverse",
     "free_tier": false,
-    "last_checked": 1790706611,
+    "last_checked": 1790721231,
     "reliability_pct": 100
   },
   {
@@ -19,10 +19,10 @@
     "provider": "hf-space:elseodelasgalletas/gemma4-e2b-qat-mobile",
     "model_detected": null,
     "model_family": "other",
-    "latency_ms": 5573,
+    "latency_ms": 7228,
     "tier": "reverse",
     "free_tier": false,
-    "last_checked": 1790706611,
+    "last_checked": 1790721231,
     "reliability_pct": 100
   }
 ]
