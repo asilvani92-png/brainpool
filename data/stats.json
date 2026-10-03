@@ -2,7 +2,7 @@
   "endpoint_count": 110,
   "alive_count": 1,
   "rate_limited_count": 5,
-  "avg_latency_ms": 1161,
+  "avg_latency_ms": 3208,
   "avg_reliability_pct": 0.9,
   "by_family": [
     {
@@ -22,13 +22,13 @@
       "alive_count": 1
     }
   ],
-  "last_updated": 1791011064,
+  "last_updated": 1791030978,
   "source_quality": [
     {
       "source": "hf-spaces",
       "total": 40,
       "alive": 1,
-      "avg_latency_ms": 1161,
+      "avg_latency_ms": 3208,
       "alive_pct": 2.5
     },
     {
