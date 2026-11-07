@@ -6,10 +6,10 @@
     "provider": "hf-space:obvAI/ai-character-chat",
     "model_detected": "llama-3.1-70b",
     "model_family": "llama",
-    "latency_ms": 3596,
+    "latency_ms": 4133,
     "tier": "reverse",
     "free_tier": false,
-    "last_checked": 1794024580,
+    "last_checked": 1794049621,
     "reliability_pct": 100
   }
 ]
