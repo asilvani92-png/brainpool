@@ -6,10 +6,10 @@
     "provider": "hf-space:obvAI/ai-character-chat",
     "model_detected": "gpt-4o",
     "model_family": "gpt",
-    "latency_ms": 5485,
+    "latency_ms": 4708,
     "tier": "reverse",
     "free_tier": false,
-    "last_checked": 1794361264,
+    "last_checked": 1794386678,
     "reliability_pct": 100
   }
 ]
