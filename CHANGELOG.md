@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-14 01:56 UTC
+- Total alive: 1 (+0)
+- Rate-limited: 4
+- Avg latency: 3,877 ms
+- Avg reliability: 0.9%
+- Top families: llama 1
+- Top providers: hf-space:obvAI/ai-character-chat 1
+
+
 ## 2026-11-13 21:46 UTC
 - Total alive: 1 (+0)
 - Rate-limited: 4
