@@ -2,11 +2,11 @@
   "endpoint_count": 108,
   "alive_count": 1,
   "rate_limited_count": 4,
-  "avg_latency_ms": 14626,
+  "avg_latency_ms": 6024,
   "avg_reliability_pct": 0.9,
   "by_family": [
     {
-      "model_family": "gpt",
+      "model_family": "llama",
       "alive_count": 1
     }
   ],
@@ -22,13 +22,13 @@
       "alive_count": 1
     }
   ],
-  "last_updated": 1794645065,
+  "last_updated": 1794669531,
   "source_quality": [
     {
       "source": "hf-spaces",
       "total": 40,
       "alive": 1,
-      "avg_latency_ms": 14626,
+      "avg_latency_ms": 6024,
       "alive_pct": 2.5
     },
     {
