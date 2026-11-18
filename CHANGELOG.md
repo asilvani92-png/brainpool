@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-18 02:34 UTC
+- Total alive: 1 (+1)
+- Rate-limited: 4
+- Avg latency: 3,734 ms
+- Avg reliability: 0.9%
+- Top families: gpt 1
+- Top providers: hf-space:obvAI/ai-character-chat 1
+
+
 ## 2026-11-17 20:34 UTC
 - Total alive: 0 (+0)
 - Rate-limited: 4
